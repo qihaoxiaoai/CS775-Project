@@ -19,8 +19,8 @@ extension: Includes extended functionalities such as new datasets, label generat
 Requirements
 To run this project, install the following dependencies:
 
-Python 3.x
+Python 3.9
 NumPy
 PyTorch
-RDKit (for SMILES processing)
-Additional libraries as specified in requirements.txt
+PyTorch Geometric
+RDKit
